@@ -1,0 +1,28 @@
+.thumbnail {
+    height: 500px;
+}
+
+.thumbnail img {
+    height: 110px;
+}
+
+.strikethrough:checked + span{
+  text-decoration:line-through
+}
+
+footer {
+    height: 50px;
+    background: #4E5D6C;
+    
+    
+}
+
+
+
+a:hover {
+    text-decoration: none;
+}
+
+.about p {
+    font-size: 25px;
+}
